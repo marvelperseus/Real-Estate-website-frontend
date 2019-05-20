@@ -1,0 +1,7 @@
+.DateRangePicker {
+  z-index: 2;
+}
+
+.DateInput_input {
+  cursor: pointer;
+}

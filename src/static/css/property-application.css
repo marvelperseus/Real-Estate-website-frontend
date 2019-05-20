@@ -1,0 +1,27 @@
+.ant-form-item {
+  margin-bottom: 0;
+}
+.ant-input {
+  height: 38px;
+}
+.ant-select-selection--single {
+  height: 38px;
+}
+.ant-select-selection__rendered {
+  line-height: 35px;
+}
+.ant-upload.ant-upload-select {
+  width: 100%;
+}
+.ant-tabs-nav-scroll {
+  display: flex;
+}
+
+.ant-tabs-nav-scroll > .ant-tabs-nav {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ant-input-affix-wrapper .ant-input {
+  padding-left: 38px !important;
+}

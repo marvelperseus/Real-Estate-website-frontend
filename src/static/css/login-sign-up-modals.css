@@ -1,0 +1,20 @@
+.login-modal .ant-modal {
+  width: 360px !important;
+}
+
+.login-modal .ant-form-item {
+  margin-bottom: 5px;
+}
+
+.login-modal .ant-form-item input {
+  margin-bottom: 5px;
+}
+
+.login-modal .ant-input-affix-wrapper .ant-input-prefix,
+.ant-input-affix-wrapper .ant-input-suffix {
+  top: 47%;
+}
+
+.grecaptcha-badge {
+  z-index: 1300;
+}
