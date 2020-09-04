@@ -85,7 +85,7 @@
     "nprogress": "^0.2.0",
     "nuka-carousel": "^4.1.0",
     "nw-react-slider": "^2.0.1",
-    "papaparse": "^4.5.0",
+    "papaparse": "^5.2.0",
     "polished": "^1.9.0",
     "postcss-loader": "^2.1.5",
     "randomstring": "^1.1.5",
