@@ -135,7 +135,7 @@
     "react-tooltip": "^3.5.0",
     "react-transition-group": "^1.2.1",
     "react-truncate": "^2.3.0",
-    "set-value": "^3.0.0",
+    "set-value": "^4.0.1",
     "sharer.js": "^0.3.3",
     "sharer.npm.js": "0.0.10",
     "smooth-scroll": "^12.1.5",
